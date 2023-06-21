@@ -2,3 +2,5 @@ The most easiest approach to this question would be to first sort the array of w
 
 The above approach uses O(nlogn) time complexity.
 
+Polygon link:-https://polygon.codeforces.com/p7pm95z/vector123/watering-iitk-trees
+
